@@ -13,17 +13,38 @@ Mi función principal es el manejo de redes sociales, tales como [Instagram](htt
 
 ## ⚡ Herramientas Utilizadas
 <p align="center">
+  <a href="https://www.python.org/">
+    <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" title="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com/">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-java-60-1174953.png" alt="Java" title="Java" width="40" height="40"/>
+  </a>
+  <a href="https://www.learn-c.org/">
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C" width="40" height="40"/>
+  </a>
+  <a href="https://isocpp.org/">
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.scheme.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Racket-logo.svg" alt="Scheme" title="Scheme" width="40" height="40"/>
+  </a>
+  <a href="https://www.swi-prolog.org/">
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_prolog_icon_130230.png" alt="Prolog" title="Prolog" width="40" height="40"/>
+  </a>
+  <a href="https://www.rstudio.com/">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-r-project-3629007-3030232.png" alt="RStudio" title="RStudio" width="40" height="40"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" title="HTML5" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" title="Python" width="40" height="40"/>
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/">
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" width="40" height="40"/>
@@ -36,24 +57,6 @@ Mi función principal es el manejo de redes sociales, tales como [Instagram](htt
   </a>
   <a href="https://www.linux.org/">
     <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" title="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.learn-c.org/">
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-java-60-1174953.png" alt="Java" title="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.scheme.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Racket-logo.svg" alt="Scheme" title="Scheme" width="40" height="40"/>
-  </a>
-  <a href="https://www.swi-prolog.org/">
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_prolog_icon_130230.png" alt="Prolog" title="Prolog" width="40" height="40"/>
-  </a>
-  <a href="https://www.rstudio.com/">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-r-project-3629007-3030232.png" alt="RStudio" title="RStudio" width="40" height="40"/>
   </a>
 </p>
 
