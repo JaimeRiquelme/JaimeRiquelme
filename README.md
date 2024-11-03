@@ -21,17 +21,26 @@
   <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="200" style="margin-left: 20px;"/>
 </div>
 
-## ⚡ Proyectos destacados
-<img align="left" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="180"/>
-
-### 📚 Usach Premium
-Actualmente formo parte del equipo de **Usach Premium**, una iniciativa educativa que:
-- 🎯 Brinda tutorías en materias fundamentales
-- 📱 Gestión de redes sociales y contenido digital
-- 🌐 Manejo de [www.usachpremium.cl](https://www.usachpremium.cl)
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/usach.premium/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@UsachPremium)
+<div style="display: flex; align-items: center;">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="180" style="margin-right: 20px;"/>
+  <div>
+    <h3>📚 Usach Premium</h3>
+    <p>Actualmente formo parte del equipo de <strong>Usach Premium</strong>, una iniciativa educativa que:</p>
+    <ul>
+      <li>🎯 Brinda tutorías en materias fundamentales</li>
+      <li>📱 Gestión de redes sociales y contenido digital</li>
+      <li>🌐 Manejo de <a href="https://www.usachpremium.cl">www.usachpremium.cl</a></li>
+    </ul>
+    <div>
+      <a href="https://www.instagram.com/usach.premium/">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+      </a>
+      <a href="https://www.youtube.com/@UsachPremium">
+        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
+      </a>
+    </div>
+  </div>
+</div>
 
 ## ⚡ Herramientas Utilizadas
 <p align="left">
