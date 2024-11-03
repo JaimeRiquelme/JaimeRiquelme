@@ -1,6 +1,8 @@
 <div align="center">
   <h1>¡Hola! 👋 Soy Jaime Riquelme</h1>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <div style="display: inline-block; margin: 20px 0;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  </div>
 </div>
 
 ## 🌱 Algo sobre mí
@@ -8,38 +10,33 @@
 > 🎮 Ex-jugador profesional de Esports (2021)  
 > 🚀 Apasionado por la tecnología y el desarrollo de software
 
-<div style="display: flex; align-items: center;">
-  <div>
-    <h3>🎯 Logros</h3>
-    <ul>
-      <li>🎓 <strong>Universidad de Santiago de Chile</strong> - Ingeniería Civil Informática</li>
-      <li>👨‍💻 <strong>Técnico programador medio</strong> (Enseñanza Media)</li>
-      <li>🏆 <strong>Certificado en programación Python</strong> INACAP (2019)</li>
-      <li>🎮 <strong>Experiencia profesional en Esports</strong></li>
-    </ul>
-  </div>
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="200" style="margin-left: 20px;"/>
+<div align="center" style="margin: 30px 0;">
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="250"/>
 </div>
 
-<div style="display: flex; align-items: center;">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="180" style="margin-right: 20px;"/>
-  <div>
-    <h3>📚 Usach Premium</h3>
-    <p>Actualmente formo parte del equipo de <strong>Usach Premium</strong>, una iniciativa educativa que:</p>
-    <ul>
-      <li>🎯 Brinda tutorías en materias fundamentales</li>
-      <li>📱 Gestión de redes sociales y contenido digital</li>
-      <li>🌐 Manejo de <a href="https://www.usachpremium.cl">www.usachpremium.cl</a></li>
-    </ul>
-    <div>
-      <a href="https://www.instagram.com/usach.premium/">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-      </a>
-      <a href="https://www.youtube.com/@UsachPremium">
-        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
-      </a>
-    </div>
-  </div>
+## 🎯 Logros
+- 🎓 **Universidad de Santiago de Chile** - Ingeniería Civil Informática
+- 👨‍💻 **Técnico programador medio** (Enseñanza Media)
+- 🏆 **Certificado en programación Python** INACAP (2019)
+- 🎮 **Experiencia profesional en Esports**
+
+## 📚 Usach Premium
+<div align="center" style="margin: 20px 0;">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200"/>
+</div>
+
+Actualmente formo parte del equipo de **Usach Premium**, una iniciativa educativa que:
+- 🎯 Brinda tutorías en materias fundamentales
+- 📱 Gestión de redes sociales y contenido digital
+- 🌐 Manejo de [www.usachpremium.cl](https://www.usachpremium.cl)
+
+<div align="center">
+  <a href="https://www.instagram.com/usach.premium/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.youtube.com/@UsachPremium">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
+  </a>
 </div>
 
 ## ⚡ Herramientas Utilizadas
@@ -126,28 +123,25 @@
 
 ## 📊 Estadísticas de GitHub
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaimeriquelme&theme=darkhub&no-frame=true&row=1&column=6" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jaimeriquelme&theme=darkhub&no-frame=true&row=1&column=6" alt="trophies" style="margin-bottom: 20px;"/>
   
-  <a href="https://github.com/reii23">
-    <img src="https://github-readme-stats.vercel.app/api?username=jaimeriquelme&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas GitHub"/>
-  </a>
-  <a href="https://github.com/reii23">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimeriquelme&theme=dark&hide_border=true&layout=compact" alt="Lenguajes Utilizados"/>
-  </a>
-  <a href="https://github.com/reii23">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaimeriquelme&theme=dark&hide_border=true" alt="Racha de Contribuciones"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=jaimeriquelme&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas GitHub" style="margin: 10px;"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimeriquelme&theme=dark&hide_border=true&layout=compact" alt="Lenguajes Utilizados" style="margin: 10px;"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaimeriquelme&theme=dark&hide_border=true" alt="Racha de Contribuciones" style="margin: 10px;"/>
 </div>
 
 ## 📫 Conecta conmigo
 <div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jaime.riquelme@usach.cl)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/Jaim3.jpg)
-
+  <a href="mailto:Jaime.riquelme@usach.cl">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.instagram.com/Jaim3.jpg">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </div>
 
----
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jaimeriquelme&color=blueviolet" alt="Profile views"/>
 </div>
