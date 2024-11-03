@@ -4,19 +4,22 @@
 </div>
 
 ## 🌱 Algo sobre mí
-> 💻 Estudiante de Ingeniería Civil Informática en la Universidad de Santiago de Chile (4to año)
-> 
-> 🎮 Ex-jugador profesional de Esports (2021)
-> 
+> 💻 Estudiante de Ingeniería Civil Informática en la Universidad de Santiago de Chile (4to año)  
+> 🎮 Ex-jugador profesional de Esports (2021)  
 > 🚀 Apasionado por la tecnología y el desarrollo de software
 
-<img align="right" src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="200"/>
-
-### 🎯 Logros
-- 🎓 **Universidad de Santiago de Chile** - Ingeniería Civil Informática
-- 👨‍💻 **Técnico programador medio** (Enseñanza Media)
-- 🏆 **Certificado en programación Python** INACAP (2019)
-- 🎮 **Experiencia profesional en Esports**
+<div style="display: flex; align-items: center;">
+  <div>
+    <h3>🎯 Logros</h3>
+    <ul>
+      <li>🎓 <strong>Universidad de Santiago de Chile</strong> - Ingeniería Civil Informática</li>
+      <li>👨‍💻 <strong>Técnico programador medio</strong> (Enseñanza Media)</li>
+      <li>🏆 <strong>Certificado en programación Python</strong> INACAP (2019)</li>
+      <li>🎮 <strong>Experiencia profesional en Esports</strong></li>
+    </ul>
+  </div>
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="200" style="margin-left: 20px;"/>
+</div>
 
 ## ⚡ Proyectos destacados
 <img align="left" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="180"/>
