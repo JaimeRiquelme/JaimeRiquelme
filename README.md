@@ -137,8 +137,8 @@ Actualmente formo parte del equipo de **Usach Premium**, una iniciativa educativ
 ## 📫 Conecta conmigo
 <div align="center">
   <a href="mailto:jaime.riquelme@usach.cl" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+    jaime.riquelme@usach.cl
+</a>
   <a href="https://www.instagram.com/Jaim3.jpg">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
