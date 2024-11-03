@@ -21,9 +21,7 @@
 - 🎮 **Experiencia profesional en Esports**
 
 ## 📚 Usach Premium
-<div align="center" style="margin: 20px 0;">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200"/>
-</div>
+
 
 Actualmente formo parte del equipo de **Usach Premium**, una iniciativa educativa que:
 - 🎯 Brinda tutorías en materias fundamentales
@@ -37,6 +35,10 @@ Actualmente formo parte del equipo de **Usach Premium**, una iniciativa educativ
   <a href="https://www.youtube.com/@UsachPremium">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
   </a>
+</div>
+
+<div align="center" style="margin: 20px 0;">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200"/>
 </div>
 
 ## ⚡ Herramientas Utilizadas
