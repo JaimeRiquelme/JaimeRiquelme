@@ -10,10 +10,6 @@
 > 🎮 Ex-jugador profesional de Esports (2021)  
 > 🚀 Apasionado por la tecnología y el desarrollo de software
 
-<div align="center" style="margin: 30px 0;">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="250"/>
-</div>
-
 ## 🎯 Logros
 - 🎓 **Universidad de Santiago de Chile** - Ingeniería Civil Informática
 - 👨‍💻 **Técnico programador medio** (Enseñanza Media)
@@ -131,7 +127,6 @@ Actualmente formo parte del equipo de **Usach Premium**, una iniciativa educativ
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimeriquelme&theme=dark&hide_border=true&layout=compact" alt="Lenguajes Utilizados" style="margin: 10px;"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaimeriquelme&theme=dark&hide_border=true" alt="Racha de Contribuciones" style="margin: 10px;"/>
 </div>
 
 <details open>
