@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Clonar el repositorio
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Generar la Snake
         uses: Platane/snk@v3
