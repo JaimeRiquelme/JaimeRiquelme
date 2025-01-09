@@ -16,6 +16,16 @@
 - 🏆 **Certificado en programación Python** INACAP (2019)
 - 🎮 **Experiencia profesional en Esports**
 
+## 📫 Conecta conmigo
+<div align="center">
+  <a href="mailto:jaime.riquelme@usach.cl" target="_blank" rel="noopener noreferrer">
+    jaime.riquelme@usach.cl
+</a>
+  <a href="https://www.instagram.com/Jaim3.jpg">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
+
 ## 📚 Usach Premium
 
 
@@ -136,15 +146,7 @@ Actualmente formo parte del equipo de **Usach Premium**, una iniciativa educativ
 </p>
 </details>
 
-## 📫 Conecta conmigo
-<div align="center">
-  <a href="mailto:jaime.riquelme@usach.cl" target="_blank" rel="noopener noreferrer">
-    jaime.riquelme@usach.cl
-</a>
-  <a href="https://www.instagram.com/Jaim3.jpg">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jaimeriquelme&color=blueviolet" alt="Profile views"/>
