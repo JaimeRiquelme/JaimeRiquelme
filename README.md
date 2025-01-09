@@ -134,6 +134,13 @@ Actualmente formo parte del equipo de **Usach Premium**, una iniciativa educativ
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaimeriquelme&theme=dark&hide_border=true" alt="Racha de Contribuciones" style="margin: 10px;"/>
 </div>
 
+<details open>
+<summary>GitHub Contribution Chart</summary>
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaimeriquelme&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&bg_color=000000&color=C2FFC7&line=CB9DF0&point=C2FFC7&area_color=CB9DF0" />
+</p>
+</details>
+
 ## 📫 Conecta conmigo
 <div align="center">
   <a href="mailto:jaime.riquelme@usach.cl" target="_blank" rel="noopener noreferrer">
