@@ -147,7 +147,7 @@ Actualmente formo parte del equipo de **Usach Premium**, una iniciativa educativ
 
 <h3 align="center">Contribution Snake</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itsKayWat/itsKayWat/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/JaimeRiquelme/JaimeRiquelme/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 </details>
 
